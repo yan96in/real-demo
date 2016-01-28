@@ -4,6 +4,8 @@
 希望你有java和android基础。  
 ###开发前的准备：
 IDE:推荐Android Studio,不要问我eclipse相关的问题，我不想浪费时间在那上面。  
+版本控制：git  
+构建： gradle  
 #####一些基础的东西大家自己看
 [AndroidTips](https://github.com/JohnTsaiAndroid/AndroidTips)  
 ###开发中用到的库/框架
