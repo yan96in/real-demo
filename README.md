@@ -10,8 +10,10 @@ IDE:推荐Android Studio,不要问我eclipse相关的问题，我不想浪费时
 [AndroidTips](https://github.com/JohnTsaiAndroid/AndroidTips)  
 ###开发中用到的库/框架
 避免重复造轮子  
-插件化编程： []()
-UI注解：[ButterKnife]()
+插件化编程： []()  
+json解析： Gson  
+日志：  
+UI注解：[ButterKnife]()  
 网络： [retrofit]()  
 数据库： [greenDao]()  
 图片处理： [glide]() | [fresco]()  
