@@ -12,19 +12,19 @@ IDE:推荐Android Studio,不要问我eclipse相关的问题，我不想浪费时
 UI注解：[ButterKnife]()
 网络： [retrofit]()  
 数据库： [greenDao]()  
-图片处理： [glide]() | [fresco]()
-推送： [友盟]()
-第三方登录分享： []()
+图片处理： [glide]() | [fresco]()  
+推送： [JPush]()  
+第三方登录分享： []()  
 二维码： [Zxing]()  
-自动适配： [Autolayout]()
-信息传递： [EventBus]() | [RxAndroid]
-检测修复内存泄露: LeakCanary
-Bug统计： []()
-地图： []()
-支付： []()
-视频： []()
-物联网开发： []()
-游戏开发： 
+自动适配： [Autolayout]()  
+信息传递： [EventBus]() | [RxAndroid]  
+检测修复内存泄露: LeakCanary  
+Bug统计： []()  
+地图： []()  
+支付： []()  
+视频： []()  
+物联网开发： []()  
+游戏开发：   
 ###base
 ###程序调试
 
