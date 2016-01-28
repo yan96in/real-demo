@@ -18,6 +18,8 @@ UI注解：[ButterKnife]()
 数据库： [greenDao]()  
 图片处理： [glide]() | [fresco]()  
 推送： [JPush]()  
+统计： 友盟  
+云： leanCloud  
 第三方登录分享： []()  
 二维码： [Zxing]()  
 自动适配： [Autolayout]()  
